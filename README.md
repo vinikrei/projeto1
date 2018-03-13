@@ -1,1 +1,2 @@
-# projeto1
+Meu primeiro Projeto GIT.
+Instruções para o usuário.
